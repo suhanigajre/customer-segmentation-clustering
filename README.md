@@ -6,7 +6,7 @@ This project performs customer segmentation using the **K-Means Clustering algor
 
 ## 📁 Dataset
 
-**Mall_Customers_50.csv**  
+**Mall_Customers_5.csv**  
 - `CustomerID` — Unique customer identifier  
 - `Gender` — Male/Female  
 - `Age` — Age of customer  
