@@ -80,5 +80,4 @@ customer-segmentation-clustering/
 ## ✍️ Author
 
 **Suhani Gajre**  
-Intern, Infotact Solutions  
-Project 2 – Individual Submission
+
